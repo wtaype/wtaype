@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtaype
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me Email
 
